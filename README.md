@@ -1,6 +1,6 @@
 # ARtist
 
-**Download it on the App Store at ARtist - 3D drawing **
+**Download it on the App Store at ARtist - 3D drawing**
 
 This is my entry to WWDC 19.
 
